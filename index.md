@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Alecto: Final Blow
+description: Benedetta's Ultimate
 ---
 
